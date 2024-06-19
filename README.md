@@ -18,7 +18,6 @@ The dataset used for this project can be downloaded from the following link:
 
 [Download Dataset](https://drive.google.com/file/d/1aM8RTM3rgVFkUUp-ppsnhfWD7AadR2Sp/view?usp=sharing)
 
-The dataset contains grayscale manga images along with their corresponding colorized versions.
 
 ## Architecture
 
