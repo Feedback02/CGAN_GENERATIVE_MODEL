@@ -4,6 +4,8 @@
 
 This project focuses on the colorization of manga images using Conditional Generative Adversarial Networks (CGAN). We utilize a U-Net architecture for the generator and a PatchGAN architecture for the discriminator. Instead of the conventional RGB color space, this project employs the L*a*b* color space to potentially enhance the colorization quality.
 
+![Sample Result](sample_result.png)
+
 ## Introduction
 
 Manga, a style of Japanese comic books and graphic novels, is typically black and white. Colorizing manga can make it more visually appealing and accessible to a wider audience. This project leverages a CGAN approach to automatically colorize manga images, enhancing their visual quality with minimal manual effort.
