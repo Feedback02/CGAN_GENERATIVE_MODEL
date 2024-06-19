@@ -36,8 +36,8 @@ To run this project, you'll need Python and several Python libraries. The follow
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/manga-colorization-cgan.git
-    cd manga-colorization-cgan
+    git clone https://github.com/Feedback02/CGAN_GENERATIVE_MODEL
+    cd CGAN_GENERATIVE_MODEL
     ```
 
 2. Create a virtual environment:
