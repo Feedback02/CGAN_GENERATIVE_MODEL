@@ -57,3 +57,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Feel free to reach out if you have any questions or need further assistance. Enjoy colorizing your manga!
+Note: the more you train the model the better will be! 
