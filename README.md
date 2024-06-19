@@ -6,6 +6,7 @@ This project focuses on the colorization of manga images using Conditional Gener
 <br>
 (left real manga color, right generated one after extracting only the black and white of the left image)
 ![Sample Result](sample_result.png)
+![Sample Result](sample_result1.png)
 
 ## Introduction
 
