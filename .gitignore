@@ -2,3 +2,5 @@ dataset/
 weights/
 lightning_logs/
 logs/
+dataset_visope_manga.zip
+color_full/
